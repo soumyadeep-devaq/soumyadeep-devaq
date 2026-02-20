@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Soumyadeep Maity
+# 💫 Hi 👋, I'm Soumyadeep Maity from DEVAQ
 **A passionate Developer || Performance Engineer || Full Stack Developer from India**
 
 Email Me 👉 ✉️ **smdpmty@gmail.com** For Collaboration/Project or Anything Else. 😊😊
