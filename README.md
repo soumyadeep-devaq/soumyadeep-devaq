@@ -1,14 +1,34 @@
-# 💫 Hi 👋, I'm Soumyadeep Maity from DEVAQ
-**A passionate Developer || Performance Engineer || Full Stack Developer from India**
+# 💫 Hi 👋, I'm Soumyadeep Maity - Developer, Creator & Problem Solver
+**I build fast, modern, and production-ready digital solutions for clients and startups.**
 
 Email Me 👉 ✉️ **smdpmty@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** web application
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:**
-- 💬 **Ask me about:** Collaboration, Tech Support
+🧩 Services I Provide
 
+🚀 Full-stack website & web app development
+
+🎨 UX/UI design + clean modern layouts
+
+⚡ Automation & API integrations
+
+🛠️ Deployment on Vercel / Render / AWS
+
+📱 Mobile-friendly responsive design
+
+🔧 Custom tools, dashboards, scripts
+
+  
+🎯 What You Get
+
+Clean, scalable, well-structured code
+
+Fast delivery + frequent progress updates
+
+Professional UI/UX with strong attention to detail
+
+Long-term support
+
+Business-focused approach
 
 
 ## 🌐 Socials:
